@@ -1,0 +1,10 @@
+﻿Name: JanVNL.Migrate
+AntiForgery: enabled
+Author: Jan de Vries
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.0
+Description: Migrate to the MiniBlog format
+Features:
+    JanVNL.Migrate:
+        Description: Description for feature JanVNL.Migrate.
